@@ -1,2 +1,1 @@
-this is second. 
-vi works.
+this is second.
